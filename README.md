@@ -58,7 +58,7 @@ DivineScript is a web application that provides a transformative and immersive e
 
 ## Getting Started
 
-1. [Clone the repository](https://github.com/claude-20/Holy-Bible-Sinhala.git) to your local machine.
+1. [Clone the repository](https://github.com/claude-20/DivineScript---Online-Holy-Bible.git) to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the application using `python app.py`.
 4. Access the deployed application in your web browser at [https://holybible.pythonanywhere.com/](https://holybible.pythonanywhere.com/).
